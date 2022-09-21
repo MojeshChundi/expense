@@ -1,0 +1,53 @@
+body{
+    background-color: aqua;
+}
+form{
+    text-align:left;
+    font-style: oblique;
+    color:rgb(14, 13, 13);
+    padding-left: 50px;
+    padding-bottom: 0%;
+    padding-top: 5%;
+}
+input[type=text]{
+    color: rgb(244, 21, 21);
+    border-spacing: 45cm;
+    text-align: center;
+    float:left;
+    lighting-color: rgb(26, 230, 80);
+}
+input[type=submit]{
+    background-color: chartreuse;
+    float: left;
+}
+
+li{
+    text-align: left;
+}
+h1{
+    
+    padding-top: 1%;
+    text-align: center;
+    color: blueviolet;
+    text-decoration:darkorchid;
+    font-family: 'Courier New', Courier, monospace;
+}
+h3{
+    color: brown;
+    padding-left: 45px;
+    padding-top: 50px;
+}
+
+.button primary edit{
+    background-color: brown;
+}
+table{
+    text-align: center;
+    padding-left: 45px;
+}
+div{
+    background-color: aquamarine;
+}
+tr{
+padding: 10px;
+}
